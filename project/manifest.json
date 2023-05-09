@@ -1,0 +1,27 @@
+{
+ 
+  "description": "Uma simples projeto de tela de cadastro utilizando uma API prórpria, com método http POST",
+  "dir": "ltr",
+  "name": "Tela de cadastro",
+  "orientation": "any",
+  "short_name": "Tela de cadastro",
+  "categories": [
+    "business",
+    "productivity",
+    "social"
+  ],
+    "icons":[
+    {
+        "src":"/android-chrome-192x192.png",
+        "sizes":"192x192","type":"image/png"
+    },
+    {
+        "src":"/android-chrome-512x512.png",
+        "sizes":"512x512","type":"image/png"
+    }
+    ],
+    "start_url" : "index.html",
+    "theme_color":"#3C486B",
+    "background_color":"#ffffff",
+    "display":"standalone"
+}
