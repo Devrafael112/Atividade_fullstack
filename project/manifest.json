@@ -1,35 +1,38 @@
 {
- 
-  "description": "Uma simples projeto de tela de cadastro utilizando uma API prórpria, com método http POST",
-  "dir": "ltr",
-  "name": "Tela de cadastro",
-  "orientation": "any",
-  "short_name": "Tela de cadastro",
-  "categories": [
-    "business",
-    "productivity",
-    "social"
-  ],
-    "icons":[
-    {
-        "src":"/android-chrome-192x192.png",
-        "sizes":"192x192","type":"image/png"
-    },
-    {
-        "src":"/android-chrome-512x512.png",
-        "sizes":"512x512","type":"image/png"
-    },
-    {
-        "src":"/favicon-16x16.png",
-        "sizes":"16x16","type":"image/png"
-    },
-    {
-        "src":"/favicon-32x32.png",
-        "sizes":"32x32","type":"image/png"
-    }
+    "description": "Um simples projeto de tela de cadastro utilizando uma API prorpria, com metodo http POST",
+    "dir": "ltr",
+    "name": "Tela de cadastro",
+    "orientation": "any",
+    "short_name": "Tela de cadastro",
+    "categories": [
+      "business",
+      "productivity",
+      "social"
     ],
-    "start_url" : "index.html",
-    "theme_color":"#3C486B",
-    "background_color":"#ffffff",
-    "display":"standalone"
-}
+    "icons": [
+      {
+        "src": "/Atividade_fullstack/project/android-launchericon-192-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/Atividade_fullstack/project/android-launchericon-512-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/Atividade_fullstack/project/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "/Atividade_fullstack/project/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "theme_color": "#3C486B",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
